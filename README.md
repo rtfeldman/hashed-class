@@ -71,3 +71,7 @@ confirmDeleteButton =
     -- button [ class "fc4bde3a1" ][ text "Confirm Deletion" ]
     warningButton [] [ text "Confirm Deletion" ]
 ```
+
+### Thanks
+
+This library was inspired by [CSS Modules](https://github.com/css-modules/css-modules). What a great idea!
